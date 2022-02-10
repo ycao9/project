@@ -12,9 +12,9 @@ We investigate both Markov Chain Monte Carlo and variational inference methods f
 ![LDA model](images/image5.png)
 ---
 ### Our approaches
-‘’‘
-
-’‘’
+```
+import gensim
+```
 #### Data Preprocessing
 ![Data Preprocessing Approaches](images/image3.png)
 
