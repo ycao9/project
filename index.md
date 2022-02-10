@@ -1,4 +1,4 @@
-
+## Investigations and approaches to Latent DIrichlet Allocation
 
 Author: Duha Aldebakel, Yu Cao, Anthony Limon, Rui Zhang
 
