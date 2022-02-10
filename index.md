@@ -14,6 +14,8 @@ We investigate both Markov Chain Monte Carlo and variational inference methods f
 ### Our approaches
 ```
 import gensim
+Def function1(x):
+  return y
 ```
 #### Data Preprocessing
 ![Data Preprocessing Approaches](images/image3.png)
