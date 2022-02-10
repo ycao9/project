@@ -1,6 +1,6 @@
-## Why Latent Dirichlet Allocation 
-Author: Duha Aldebakel, Yu Cao, Anthony Limon, Rui Zhang
 
+
+Author: Duha Aldebakel, Yu Cao, Anthony Limon, Rui Zhang
 
 
 ### Section 1
