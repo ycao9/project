@@ -1,4 +1,5 @@
-## Why Latent Dirichlet Allocation - Presentation Project for DSC180 A06
+## Why Latent Dirichlet Allocation 
+Author: Duha Aldebakel, Yu Cao, Anthony Limon, Rui Zhang
 
 
 
