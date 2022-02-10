@@ -11,17 +11,17 @@ We investigate both Markov Chain Monte Carlo and variational inference methods f
 ### [Intuition behind Latent Dirichlet Allocation]("sections/intuition")
 ![LDA model](images/image5.png)
 ---
-### Our approaches
+### [Our approaches]("sections/approaches")
 ```
 import gensim
 Def function1(x):
   return y
 ```
-#### Data Preprocessing
+##### Data Preprocessing
 ![Data Preprocessing Approaches](images/image3.png)
 
 ![Data Preprocessing Approaches](images/image4.png)
 ---
-### Experiments
+### [Experiments]("sections/experiments")
 ---
-### Findings
+### [Findings]("sections/findings")
