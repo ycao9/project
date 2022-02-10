@@ -1,4 +1,4 @@
-## Why Latent Dirichlet Allocation
+## Why Latent Dirichlet Allocation - Presentation Project for DSC180 A06
 
 
 
