@@ -1,6 +1,7 @@
 ---
 title: Investigation on Latent Dirichlet Allocation
 ---
+Author: Duha Aldebakel, Yu Cao, Anthony Limon, Rui Zhang
 
 ### What we did
 
