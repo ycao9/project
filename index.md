@@ -10,9 +10,16 @@ We investigate both Markov Chain Monte Carlo and variational inference methods f
 
 ### Intuition behind Latent Dirichlet Allocation
 ![LDA model](images/image5.png)
+---
 ### Our approaches
+‘’‘
+
+’‘’
 #### Data Preprocessing
 ![Data Preprocessing Approaches](images/image3.png)
+
 ![Data Preprocessing Approaches](images/image4.png)
+---
 ### Experiments
+---
 ### Findings
