@@ -1,2 +1,2 @@
 # project-presentation
-presentation project for DSC180
+Link to the website: https://ycao9.github.io/project-presentation
